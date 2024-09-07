@@ -1,0 +1,79 @@
+body
+{
+    background-color:palevioletred;
+}
+.data
+{
+display: flex;
+}
+.data1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.zero
+{
+    height:200px;
+    width: 80%;
+    border: 10px solid  white;
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+    
+}
+/*three
+{
+    display: flex;
+     padding-top: 100px;
+    padding-right: 50px;
+    padding-left: 20px; 
+}
+   
+img
+{
+    border: 2px solid white;
+    border-radius: 40px;
+}
+.five
+{   display: flex;
+    padding-left: 50px;
+    padding-top: 100px;
+    padding-right: 50px;
+}
+.seven
+{   display: flex;
+    padding-left: 40px;
+    padding-top: 100px;
+}
+.nine
+{   display: flex;
+    padding-left: 120px;
+    padding-top: 100px;
+}
+.zeroone
+{   display: flex;
+    padding-left: 20px;
+    padding-bottom: 60px;
+}
+.zerothree
+{   display: flex;
+    padding-left: 100px;
+    padding-bottom: 60px;
+}
+.zerofive
+{   display: flex;
+    padding-left:100px;
+    padding-bottom: 60px;
+}
+.zeroseven
+{   display: flex;
+    padding-left: 120px;
+    padding-bottom: 40px;
+}*/
+.three, .five, .seven, .nine, .zeroone, .zerothree, .zerofive, .zeroseven {
+    display: flex;
+    align-items: center; /* This aligns items vertically */
+    padding-right: 50px;
+    padding-left: 20px;
+    padding-top: 20px; /* Unified padding-top for all */
+}
