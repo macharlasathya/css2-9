@@ -1,0 +1,216 @@
+.head
+{
+    height: 50px;
+    width: 100%;
+    display: flex;
+
+}
+.zero
+{
+    padding-top: 15px;
+}
+.one
+{
+    padding-top:15px;
+}
+.two
+{
+    padding-top: 15px;
+}
+.three
+{
+    padding-top: 15px;
+}
+.four
+{
+    padding-top: 15px;
+}
+.five
+{
+    padding-top: 15px;
+}
+.six
+{
+    padding-top: 15px;
+}
+.seven
+{
+    padding-top: 15px;
+}
+.eight
+{
+    padding-top: 15px;
+}
+.nine
+{
+   padding-top: 15px;
+    border: 2px solid gray;
+    border-radius:20px;
+    width: 80px;
+  height: 30px;
+  text-align: center;
+}
+.ten
+{
+   padding-top: 15px;
+    border: 2px solid gray;
+    border-radius:20px;
+    width: 80px;
+  height: 30px;
+  text-align: center;
+  z-index: -1;
+}
+.zeroone
+{
+    height:40px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+}
+.zerotwo
+{
+    color:whitesmoke;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 18px;
+}
+.zerothree
+{
+    color:whitesmoke;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 18px;
+}
+.zerofour
+{
+    color:whitesmoke;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 18px;
+}
+.zerofive
+{
+    color:whitesmoke;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 18px;
+}
+.zerosix
+{
+    color:whitesmoke;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 18px;
+}
+.zeroseven
+{
+    color:whitesmoke;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 18px;
+}
+.zeroeight
+{
+    color:whitesmoke;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 18px;
+}
+.zeronine
+{
+    color:whitesmoke;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 18px;
+}
+.zeroten
+{
+    color:whitesmoke;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 18px;
+}
+.oneone
+{
+    color:whitesmoke;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 18px;
+}
+.onetwo
+{
+    color:whitesmoke;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 18px;
+}
+.onethree
+{
+    color:whitesmoke;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 18px;
+}
+.onefour
+{
+    color:whitesmoke;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 18px;
+}
+.onefive
+{
+    color:whitesmoke;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 18px;
+}
+.onesix
+{
+    color:whitesmoke;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 18px;
+}
+.oneseven
+{
+    color:whitesmoke;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 18px;
+}
+.oneeight
+{
+    color:whitesmoke;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 18px;
+}
+.onenine
+{
+    color:whitesmoke;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 18px;
+}
+.oneten
+{
+    color:whitesmoke;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 18px;
+}
+.twoone
+{
+    color:whitesmoke;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 18px;
+}
+.twotwo
+{
+    color:whitesmoke;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 18px;
+}
